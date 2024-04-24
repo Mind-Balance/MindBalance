@@ -10,28 +10,43 @@
   <strong><span style="font-size:20px;">Backend</span></strong>
 </p>
 
----
+[Repo de Vapor ](https://github.com/Mind-Balance/Vapor-Backend)
+
 ---
 
 <p align="center">
   <strong><span style="font-size:20px;">Figma</span></strong>
 </p>
 
-<a href="https://www.figma.com/file/6nh4x3TMeykuJH6QJVtV5L/MindBalance-App-Project?type=design&node-id=403-3283&mode=design&t=X0ftMSj3odRKnmfk-0" name="figma"></a>
+[Diseño de MindBalance App](https://www.figma.com/file/6nh4x3TMeykuJH6QJVtV5L/MindBalance-App-Project?type=design&node-id=403-3283&mode=design&t=X0ftMSj3odRKnmfk-0)
+
 ---
----
+
 
 <p align="center">
   <strong><span style="font-size:20px;">Android</span></strong>
 </p>
 
----
+[Repo](https://github.com/Mind-Balance/Front-Android)
 
 ---
+
 
 <p align="center">
   <strong><span style="font-size:20px;">iOS</span></strong>
 </p>
+
+
+[Repo](https://github.com/Mind-Balance/Front-iOS)
+
+---
+
+<p align="center">
+  <strong><span style="font-size:20px;">Videos MVP </span></strong>
+</p>
+
+
+[MVP Figma](https://drive.google.com/drive/folders/1pUDuMwbC6lgXx5848WVJ7R2ErjeNSxV3)
 
 ---
 
