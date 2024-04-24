@@ -1,13 +1,36 @@
 # Bootcamp Desarrollo de Apps Móviles - Proyecto final
 
 <div align="center">
-  <img src="assets/mindBalanceLogo.png" alt="Logo MindBalance" width="550" height="350">
+  <img src="https://github.com/Mind-Balance/Vapor-Backend/blob/main/assets/mindBalanceLogo.png" alt="Logo MindBalance" width="550" height="350">
 </div>
 
 ---
 
 <p align="center">
   <strong><span style="font-size:20px;">Backend</span></strong>
+</p>
+
+---
+---
+
+<p align="center">
+  <strong><span style="font-size:20px;">Figma</span></strong>
+</p>
+
+<a href="https://www.figma.com/file/6nh4x3TMeykuJH6QJVtV5L/MindBalance-App-Project?type=design&node-id=403-3283&mode=design&t=X0ftMSj3odRKnmfk-0" name="figma"></a>
+---
+---
+
+<p align="center">
+  <strong><span style="font-size:20px;">Android</span></strong>
+</p>
+
+---
+
+---
+
+<p align="center">
+  <strong><span style="font-size:20px;">iOS</span></strong>
 </p>
 
 ---
